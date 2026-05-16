@@ -1,10 +1,10 @@
 {
   "version": 7,
-  "updated_at": "2026-05-16T15:00:00Z",
   "servers": [
     {
       "id": "mcpvp",
       "name": "McPvP.fr",
+      "bannerUrl": ""
       "type": "Mini Jeux",
       "ip": "mcpvp.fr",
       "port": 25565,
@@ -28,14 +28,7 @@
         "website": null
       },
 
-      "news": [
-        {
-          "title": "Season 5 launched",
-          "content": "New ranked system + anti-cheat update",
-          "date": "2026-05-16",
-          "posted_by": "Nicolas"
-        }
-      ]
+      "news": []
     }
   ]
 }
