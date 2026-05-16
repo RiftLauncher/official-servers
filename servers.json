@@ -30,6 +30,36 @@
       },
 
       "news": []
+    },
+        {
+      "id": "dev",
+      "name": "McPvP.fr",
+      "bannerUrl": "",
+      "color": "§c",
+      "type": "Dév (Mini-Jeux)",
+      "ip": "dev.mcpvp.fr",
+      "port": 25565,
+
+      "motd": "McPvP est un serveur compétitif avec ranked, events et kits. Domine les fights et grimpe les rangs.",
+      "version": "1.8.8",
+
+      "auth": {
+        "custom_auth": false,
+        "sso_url": null
+      },
+      
+      "maintenance": {
+        "enabled": true,
+        "message": "Environnement de développement !"
+      },
+
+      "links": {
+        "discord": "https://discord.gg/xxxxx",
+        "store": "https://store.mcpvp.fr/",
+        "website": "https://www.mcpvp.fr/"
+      },
+
+      "news": []
     }
   ]
 }
