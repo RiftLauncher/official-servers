@@ -29,7 +29,14 @@
         "website": "https://www.mcpvp.fr/"
       },
 
-      "news": []
+      "news": [
+        {
+          "title": "Test",
+          "content: "Test 2",
+          "date": "17/05/2026",
+          "posted_by": "Nicolas"
+        }
+      ]
     }
   ]
 }
