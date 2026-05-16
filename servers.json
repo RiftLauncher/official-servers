@@ -4,7 +4,7 @@
     {
       "id": "mcpvp",
       "name": "McPvP.fr",
-      "bannerUrl": "",
+      "bannerUrl": "https://static.planetminecraft.com/files/resource_media/screenshot/1510/2015-03-07_1616008718739_lrg.jpg",
       "color": "§6",
       "type": "Mini Jeux",
       "ip": "mcpvp.fr",
@@ -32,11 +32,11 @@
       "news": []
     },
         {
-      "id": "dev",
+      "id": "test",
       "name": "McPvP.fr",
       "bannerUrl": "",
       "color": "§c",
-      "type": "Dév (Mini-Jeux)",
+      "type": "Staging (Mini-Jeux)",
       "ip": "dev.mcpvp.fr",
       "port": 25565,
 
