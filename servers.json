@@ -1,5 +1,5 @@
 {
-  "version": 9,
+  "version": 11,
   "servers": [
     {
       "id": "mcpvp",
@@ -18,8 +18,8 @@
       },
       
       "maintenance": {
-        "enabled": false,
-        "message": ""
+        "enabled": true,
+        "message": "Refonte du Rush !"
       },
 
       "links": {
