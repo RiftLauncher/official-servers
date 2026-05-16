@@ -18,8 +18,8 @@
       },
       
       "maintenance": {
-        "enabled": true,
-        "message": "Server restarting in 10 min"
+        "enabled": false,
+        "message": ""
       },
 
       "links": {
