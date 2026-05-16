@@ -1,9 +1,10 @@
 {
-  "version": 14,
+  "version": 15,
   "servers": [
     {
       "id": "mcpvp",
       "name": "McPvP.fr",
+      "launcherRequired": true,
       "color": "§6",
       "type": "Mini Jeux",
       "ip": "mcpvp.fr",
