@@ -1,0 +1,41 @@
+{
+  "version": 7,
+  "updated_at": "2026-05-16T15:00:00Z",
+  "servers": [
+    {
+      "id": "mcpvp",
+      "name": "McPvP.fr",
+      "type": "Mini Jeux",
+      "ip": "mcpvp.fr",
+      "port": 25565,
+
+      "motd": "McPvP est un serveur compétitif avec ranked, events et kits. Domine les fights et grimpe les rangs.",
+      "version": "1.8.8",
+
+      "auth": {
+        "custom_auth": false,
+        "sso_url": null
+      },
+      
+      "maintenance": {
+        "enabled": true,
+        "message": "Server restarting in 10 min"
+      },
+
+      "links": {
+        "discord": "https://discord.gg/xxxxx",
+        "store": null,
+        "website": null
+      },
+
+      "news": [
+        {
+          "title": "Season 5 launched",
+          "content": "New ranked system + anti-cheat update",
+          "date": "2026-05-16",
+          "posted_by": "Nicolas"
+        }
+      ]
+    }
+  ]
+}
