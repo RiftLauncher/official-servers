@@ -14,7 +14,7 @@
       "version": "1.8.8",
 
       "auth": {
-        "custom_auth": false,
+        "custom_auth": true,
         "sso_url": null
       },
       
